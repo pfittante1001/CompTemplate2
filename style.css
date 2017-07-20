@@ -1,1 +1,31 @@
-﻿
+﻿div.page-header{
+    margin-top:0px;
+    background-color:#ffffff;
+    padding-top:3px;
+    margin-bottom:0px;
+}
+
+nav#navvy.navbar.navbar-static-top{
+   background-color:orangered;
+   margin-bottom:0px; 
+}
+
+#navvy a{
+   color:#000080;
+   font-size:x-large;
+   font-weight:bolder;
+   font-family:sans-serif;
+}
+
+#navvy a:hover{
+    background:none;
+}
+
+button.navbar-toggle{
+    border:1px solid #FFF6F0;
+}
+span.icon-bar{
+    border:1px solid #FFF6F0;
+
+}
+
